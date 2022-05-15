@@ -65,6 +65,9 @@ As a user, I want to be able to see the balance I hav
 - [Github](https://github.com/willyhuang18)
 - [LinkedIn](https://www.linkedin.com/feed/)
 
+- Credit to Dr.Angela Yu from Udemy
+
+
 ## License
 
 This project is licensed under the MIT License 
